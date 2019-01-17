@@ -1,0 +1,23 @@
+{
+  "name": "dollySpice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cburns21/dollySpice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cburns21/dollySpice/issues"
+  },
+  "homepage": "https://github.com/cburns21/dollySpice#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
